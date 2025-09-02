@@ -41,5 +41,5 @@ Open in Tableau Desktop or Tableau Public.
 Navigate through the Story to explore signup and login patterns.
 
 -Preview (Screenshots)
-<img width="903" height="598" alt="Screenshot 2025-09-02 at 1 22 10 AM" src="https://github.com/user-attachments/assets/d37e2d4f-5de9-46cf-9bb9-a1999e66f8ef" />
+<img width="1225" height="696" alt="Screenshot 2025-09-02 at 6 05 13 PM" src="https://github.com/user-attachments/assets/fbe17db0-00a9-4af6-ba23-53e7c937219c" />
 
